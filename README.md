@@ -25,10 +25,8 @@
 
 ```
 # clone the repository to your local machine
-$ git clone `git clone https://github.com/<YOUR-GITHUB-USERNAME>/Rozgaar-Blue-Collars-Job-Seach-Platform-Frontend.git`
 
 # navigate to the project's directory and install all the relevant dev-dependencies
-$ cd Rozgaar-Blue-Collars-Job-Seach-Platform-Frontend && npm intsall
 
 # Start application
 $ npm start
@@ -56,7 +54,7 @@ I have identified 9 categories of job-seekers to make the platform more intuitiv
 2. Update Profile
 3. Apply on jobs - just by clicking - as simple as that.
 4. The applicant gets an SMS on his/her phone number after applying to a job.
-   ![SMS TO APPLICANT](https://github.com/Manvityagi/Rozgaar-Blue-Collars-Job-Seach-Platform-Backend/raw/main/assets/msgToApplicant.jpg)
+   ![SMS TO APPLICANT]
 
 #### For Job Poster
 
@@ -65,7 +63,7 @@ I have identified 9 categories of job-seekers to make the platform more intuitiv
 3. **Ease the flow** for both parties
    - Job Seekers Profiles will be available all throughout, Recruiters can directly see their profiles and give them a message/call
 4. Job Poster gets an email when someone applies on a job posted by him/her.
-   ![MAIL TO RECRUITER](https://github.com/Manvityagi/Rozgaar-Blue-Collars-Job-Seach-Platform-Backend/raw/main/assets/recruiterMail.PNG)
+   ![MAIL TO RECRUITER]
 
 #### Problems in Existing Solutions
 
